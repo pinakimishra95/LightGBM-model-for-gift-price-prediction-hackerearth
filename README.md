@@ -1,4 +1,5 @@
 # LightGBM-model-for-gift-price-prediction-hackerearth
+<pre>
 # Problem statement
 One of the main goals of online retailers is to increase the desirability and the value of the products. To achieve this goal, various promotional techniques are planned. Among these techniques, offering promotions and special offers to the customers is an effective method of driving ancillary traffic to the site, acquiring new customers, and growing the revenue. These advancements can likewise be utilized to encourage new visitors to become loyal customers.  
 
@@ -8,7 +9,7 @@ However, based on these certain features you are required to build a model that 
 
 # Data
 The dataset consists of the following columns:  
-<pre>
+
 # Data description    # Column	Description  
 gift_id	                Unique ID of gift  
 gift_type	             Type of gift (clothes/perfumes/etc.)  
