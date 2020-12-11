@@ -8,7 +8,7 @@ However, based on these certain features you are required to build a model that 
 
 # Data
 The dataset consists of the following columns:  
-
+<pre>
 # Data description    # Column	Description  
 gift_id	                Unique ID of gift  
 gift_type	             Type of gift (clothes/perfumes/etc.)  
@@ -33,3 +33,4 @@ GF_11157,90.4
 GF_11158,102.0  
 GF_11159,130.05  
 Note: To avoid any discrepancies in the scoring, you must ensure that all the gift_id column values in the submitted file match the values in test.csv provided.  
+</pre>
